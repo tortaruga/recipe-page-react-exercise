@@ -1,7 +1,7 @@
-import logo from 'dist/assets/images/logo'
-import fb from 'dist/assets/images/fb.png'
-import twitter from 'dist/assets/images/twitter.png'
-import insta from 'dist/assets/images/instagram.png'
+import logo from '/images/logo.png'
+import fb from '/images/fb.png'
+import twitter from '/images/twitter.png'
+import insta from '/images/instagram.png'
 import Attribution from './Attribution'
 
 export default function Footer() {

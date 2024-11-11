@@ -1,4 +1,4 @@
-import searchIcon from 'dist/assets/images/search.png';
+import searchIcon from '/images/search.png';
 
 export default function Header() {
     return (

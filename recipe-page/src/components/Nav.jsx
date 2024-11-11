@@ -1,4 +1,4 @@
-import logo from 'dist/assets/images/logo';
+import logo from '/images/logo.png';
 
 
 export default function Navbar() {
